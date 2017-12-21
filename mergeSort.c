@@ -10,6 +10,8 @@ worst case= O(nlogn)
 
 
 
+equation t(n)=2t(n/2) + O(n)
+
 */
 
 #include <stdio.h>	
